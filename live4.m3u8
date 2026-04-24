@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:59:83:B5&stream=1776147&extension=m3u8
 http://royalibox.com/live/8g5665q36d/rj9c9ucrhl/1776147.m3u8 
 https://love.tecobo5568.workers.dev/lx-origin/th-monomax04_720/chunks.m3u8
