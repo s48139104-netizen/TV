@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130726.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:59:83:B5&stream=1776156&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080
 https://love.tecobo5568.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
