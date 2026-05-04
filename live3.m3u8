@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+http://v3tv.live/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776146&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:59:83:B5&stream=1776146&extension=m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+https://love.tecobo5568.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130720.m3u8
