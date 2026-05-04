@@ -1,12 +1,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2700000
-http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130720.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2700000
-http://royalibox.com/live/8g5665q36d/rj9c9ucrhl/1776146.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2700000
+http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115771.m3u8
 http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115760.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2700000
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:59:83:B5&stream=1776146&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2700000
 https://love.tecobo5568.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+http://fastopen.live:8080/live/MLS003/qZj4zbPNDn/130720.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+http://royalibox.com/live/8g5665q36d/rj9c9ucrhl/1776146.m3u8
