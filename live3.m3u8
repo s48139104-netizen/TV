@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2700000
+https://ipplaybox.fun/dookeela/monomax-3/chunks.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
 https://dij0k9i5q0gvn.cloudfront.net/monomax-3/chunks.m3u8
