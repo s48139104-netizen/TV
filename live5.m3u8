@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
+https://hls03.appball.vip/hls/9URp_VysZEInruZW5Sxcmw/1778349153/mono3.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 http://v3tv.live:80/play/live.php?mac=00:1A:79:D0:30:8F&stream=1776158&extension=m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2700000
 https://ipplaybox.fun/dookeela/monomax-5/chunks.m3u8
